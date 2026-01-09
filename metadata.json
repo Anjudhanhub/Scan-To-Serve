@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Scan to Serve",
+  "description": "A QR-code-based food ordering and payment application designed to make the dining experience faster and more convenient. Users can scan a QR code to access a digital menu, place an order, and complete payment seamlessly. The app includes AI-powered suggestions and a smart chatbot.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
